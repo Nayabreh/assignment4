@@ -1,0 +1,208 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    
+}.logo{
+    text-align: left;
+    padding-left: 20%;
+    padding-top: 10%;
+    display: inline-block;
+    
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+    display: inline-block;
+    padding-right: .5rem;
+    color: #6c757d;
+    content: ">";
+}
+.formm{
+    background-color:  #e9ecef;
+}
+.breadcrumb{
+    text-align: left;
+    padding-left: 18%;
+    padding-top: 5%;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.headings{
+    /* padding-top: 5px;
+    padding-bottom: 5px; */
+    /* display: block;    */
+     /* padding-left: 18% !important; */
+
+        margin-block-start: 1.33em;
+        margin-block-end: 1.33em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-weight: bold;
+}
+    h4 {
+        /* padding-left: 18px; */
+        display: block;
+        margin-block-start: 1.33em;
+        margin-block-end: 1.33em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-weight: bold;
+    }
+
+.section__title {
+    display: block;
+    margin-top: 0em;
+    text-align: left;
+    padding-left: 18%;
+    padding-top: 5%;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.floating-labels .main .field__label {
+    color: #737373;
+}
+.comp-form{
+    
+    margin-top: 0em;
+    text-align: left;
+    padding-left: 18%;
+    padding-top: 5%;
+   padding-right:30px ;
+  
+}
+.form-control[type="text"]{
+    font-size: 13px;
+    margin-bottom: 20px;
+    padding: 20px;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.mail[type="email"]{
+        font-size: 13px;
+        margin-bottom: 20px;
+        padding: 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .form-control[type="number"]{
+        margin-bottom: 20px;
+        margin-top: 0px !important;
+        font-size: 13px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        padding: 20px;
+    }
+.half{
+    
+    
+    background-clip: padding-box;
+    border-radius: 5px;
+    display: block;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-right: 0px !important;
+    
+    /* padding: 0.92857em 0.78571em; */
+    word-break: normal;
+    line-height: inherit;
+}
+.halff{
+    margin-left: 0px !important;
+}
+.btn {
+    margin-top: 10px;
+    
+    /* position: relative; */
+    padding-right: 0px;
+    background-color: black !important;
+    border-radius: 0px;
+    width: 30%;
+}
+.button{
+    background-color:  #e9ecef;
+}
+.form{
+    background-color:  #e9ecef;
+}
+
+.pic1{
+margin-left: 50px;
+margin-top: 60px;
+border-radius: 25px;
+border: 1px solid gray ;
+}
+.image{
+    padding-right: 0 !important;
+    margin-right: 0px;
+}
+.text{
+    color: rgb(172, 167, 167);
+margin-top: 50px;
+margin-right: 5%;
+padding-top: 30px;
+padding-left: 50px;
+margin-left: 0px !important;
+
+
+}
+.col{
+    width: 0px !important;
+}
+.price{
+    color: rgb(172, 167, 167);
+    padding-top: 30px;
+    margin-right: 20px !important;
+    
+    margin-left: 5px;
+}
+.hr{
+    height: 1px;
+    color: rgb(172, 167, 167);
+    width: 100%;
+}
+.subtotal{
+    position: absolute;
+    left: 30%;
+    /* margin-left: 50px !important;
+    padding-left: 140%;
+    margin-top: 50px;
+margin-right: 5%; */
+    color: rgb(172, 167, 167);
+    text-align: left;
+}
+.price2{
+   position: absolute;
+   right:100px;
+    color: rgb(172, 167, 167);
+}
+.subtotal1{
+    position: relative;
+    top:60px;
+    left: 120%;
+    /* margin-left: 50px !important;
+    padding-left: 140%;
+    margin-top: 50px;
+margin-right: 5%; */
+    color: rgb(172, 167, 167);
+    text-align: left;
+}
+.price3{
+    font-size: 10px;
+    position: relative;
+    top:60px;
+    left: 190%;
+    /* margin-left: 50px !important;
+    padding-left: 140%;
+    margin-top: 50px;
+margin-right: 5%; */
+    color: rgb(172, 167, 167);
+    text-align: left;
+    left:450px;
+}
+.hr1{
+    height: 1px;
+    margin-top: 10%;
+    top: 20px;
+    color: rgb(172, 167, 167);
+    width: 100%;
+}

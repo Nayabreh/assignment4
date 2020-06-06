@@ -1,0 +1,107 @@
+/* .menubar{
+    margin-top: 5px;
+    margin-bottom: 5%;
+    height: 20%;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    
+
+    
+} */
+.menubar{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+.menubar a{
+    color: black;
+    
+}
+.menubar .arrow{
+    padding-right: 7%;
+    color: black;
+    font-size-adjust: 20px;
+}
+
+
+.container{
+    
+    max-width: 100% !important;
+    left: 0px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    
+}
+.col-2.col-sm-2.col-md-2.col-lg-2.search {
+    border-left: 1px solid #EEE;
+}
+
+div#navbarSupportedContent {
+    position: absolute;
+    top: 17px;
+    background: #f8f9fa;
+    width: max-content;
+    padding: 5px 15px;
+}
+
+.dropdown-menu.show {
+    position: absolute;
+} 
+.signup{
+    /* position: relative; 
+    top: 50%; */
+}
+.view img{
+    margin-left: 20%;
+    border: 1px solid wheat;
+    border-radius: 20px;
+}
+.brandname{
+    margin-top: 15%;
+}
+.pricess del{
+ color: rgb(173, 170, 170);
+ padding-top: 50px;
+}
+.pricess ins{
+    
+    font-size: 30px;
+    
+    text-decoration: none;
+   }
+
+   .but .btn{
+       text-align: center;
+       background: black;
+       margin-top: 150px;
+       margin-bottom: 30px;
+       border-radius: 0px !important;
+       width: 95%;
+       
+   }
+   .butt .btn{
+    text-align: center;
+    background: black;
+    width: 95%;
+    border-radius: 0px !important;
+    margin-bottom: 30px;
+    
+    
+    
+}
+.label{
+    margin-top: 50px;
+    border: rgb(189, 185, 185) 2px solid;
+    padding: 20px;
+    border-radius: 20px;
+    width: 95%;
+    margin-left: 20px;
+}
+.label p::before {
+    display: inline-block;
+    padding-right: .5rem;
+    color: #6c757d;
+    content: ">";
+}
